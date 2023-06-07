@@ -15,3 +15,5 @@ In the digital era, YouTube has emerged as one of the most popular platforms for
 
 Lavendaire, my favorite YouTube channels, focuses on personal growth, self-improvement, and lifestyle design.Lavendaire provides valuable content that inspires and motivates me since 2017. So, I would love to make a case study from this channel.
 
+## Check-out the step of connecting Youtube API
+https://medium.com/@nattayapiasa/how-to-scrape-data-from-youtube-using-youtubeapi-python-e8f29338c8d1
